@@ -1,0 +1,8 @@
+{
+  "name": "test-dependabot-private-registry",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@testarcdep/test-private-package-registry": "1.0.0"
+  }
+}
