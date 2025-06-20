@@ -11,4 +11,3 @@ registries:
     type: "npm-registry"
     url: "https://npm.pkg.github.com"
     token: "${{secrets.GH_NPM_TOKEN}}"
-    replaces-base: true
