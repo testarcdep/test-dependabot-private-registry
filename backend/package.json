@@ -1,0 +1,12 @@
+{
+  "name": "test-dependabot-private-registry",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@testarcdep/test-private-package-registry": "1.0.0",
+    "aws-cdk-lib": "2.161.1",
+    "event-stream": "3.3.6",
+    "serialize-javascript": "2.1.1",
+    "marked": "0.3.6"
+  }
+}
