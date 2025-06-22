@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/docs"
+    directory: "/backend"
     schedule:
       interval: "daily"
     registries:
