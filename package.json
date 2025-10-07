@@ -5,7 +5,7 @@
   "dependencies": {
     "@testarcdep/test-private-package-registry": "1.0.0",
     "aws-cdk-lib": "2.161.1",
-    "aws-jwt-verify": "^4.0.0",
+    "aws-jwt-verify": "^5.1.0",
     "axios": "^1.6.0",
     "axios-retry": "^4.0.0",
     "constructs": "10.3.0",
