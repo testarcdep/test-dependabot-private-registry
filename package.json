@@ -8,7 +8,7 @@
     "aws-jwt-verify": "^4.0.0",
     "axios": "^1.6.0",
     "axios-retry": "^4.0.0",
-    "constructs": "10.3.0",
+    "constructs": "10.4.2",
     "convict": "^6.2.4"
   }
 }
